@@ -1,5 +1,5 @@
 <?php
-
+//created by Robbi Nespu < email : robbi . nespu @ hotmail .com >
 // Create connection
 $con = mysqli_connect("localhost","root","","temp_anis");
 // Check connection
