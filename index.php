@@ -7,7 +7,7 @@
 <td>
   <table width="100%" border="0" cellpadding="3" cellspacing="1" bgcolor="#FFFFFF">
     <tr>
-      <td><strong>Single File Upload </strong></td>
+      <td><strong>Image File Upload </strong></td>
     </tr>
     <tr>
       <td>Silih fail <input name="0xfile" type="file" id="0xfile" size="50" /></td>
