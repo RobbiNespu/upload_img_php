@@ -1,4 +1,4 @@
-<!--  // created by Robbi Nespu < email : robbi . nespu @ hotmail .com > -->
+<!--  created by Robbi Nespu < email : robbi . nespu @ hotmail .com > -->
 <html>
 <head><title>Borang</title></head>
 <body>
