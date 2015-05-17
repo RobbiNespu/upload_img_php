@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: May 17, 2015 at 09:16 AM
+-- Generation Time: May 17, 2015 at 09:34 AM
 -- Server version: 5.6.17
 -- PHP Version: 5.5.12
 
@@ -38,9 +38,9 @@ CREATE TABLE IF NOT EXISTS `upload_img` (
 --
 
 INSERT INTO `upload_img` (`id`, `url`, `exp`) VALUES
-(1, 'url', '2015-05-01'),
-(2, '../images/1928710.png', NULL),
-(3, '../images/60403442.png', NULL);
+(1, '../images/61047363.png', NULL),
+(2, '../images/22375488.png', NULL),
+(3, '../images/94854736.png', NULL);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

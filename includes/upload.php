@@ -5,8 +5,6 @@ if (mysqli_connect_errno()){
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
 }
 
-
-
 $file_name = basename($_FILES['0xfile']['name']);
 
 // random 4 digit to add to our file name 
@@ -52,6 +50,8 @@ if(!in_array($ext,$allowed) ) {
       }
       echo "Successful saved into database";
       mysqli_close($con);
+
+      echo "<br/><a href='uploaded.php'>Check uploaded img from database</a>";
 
     }else{
       echo "Error";
